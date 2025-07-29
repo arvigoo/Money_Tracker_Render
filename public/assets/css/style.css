@@ -1,0 +1,54 @@
+    body.neo {
+  font-family: 'Arial Black', sans-serif;
+  background-color: #ffeff7;
+  color: #000;
+  padding: 20px;
+}
+
+.container {
+  background: #ff80b5;
+  border: 3px solid black;
+  padding: 30px;
+  box-shadow: 8px 8px 0 black;
+  max-width: 800px;
+  margin: auto;
+}
+
+input, textarea, select {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  font-weight: bold;
+  border: 2px solid black;
+  padding: 10px;
+  background: white;
+}
+
+/* button {
+  background-color: #ff55aa;
+  color: black;
+  cursor: pointer;
+  box-shadow: 4px 4px 0 black;
+} */
+
+a {
+  background-color: yellow;
+  padding: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  border: 2px solid black;
+  box-shadow: 4px 4px 0 black;
+}
+
+.neo-button {
+  background-color: yellow;
+  padding: 10px 20px;
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: bold;
+  text-decoration: none;
+  border: 2px solid black;
+  box-shadow: 4px 4px 0 black;
+}
